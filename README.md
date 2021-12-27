@@ -10,3 +10,5 @@ vaccination among the sub-segments of hesitant members
 based on the insights derived from the data
 	* 	Ensure analysis and recommendations demonstrate fairness and
 equity through mitigation of potential bias inherent in the data
+* Dataset:
+	* 	A training dataset of 974,842 rows and 368 columns
